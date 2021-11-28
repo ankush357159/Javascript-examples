@@ -19,7 +19,7 @@ class Product {
       (this.createdAt = createdAt);
   }
   //Getter
-  get inventory() {
+  get inventoryValue() {
     return this.totalPrice();
     //return this.price * this.stock;
   }

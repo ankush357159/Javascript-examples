@@ -26,4 +26,4 @@ console.log("Stock: " + p1.stock + " Units");
 console.log("Category: " + p1.category);
 console.log("Image url: " + p1.image_url);
 console.log("Created At: " + p1.createdAt);
-console.log("Total value of inventory: ₹" + p1.inventory);
+console.log("Total value of inventory: ₹" + p1.inventoryValue);
